@@ -1,6 +1,5 @@
 /**
  * Сортировка кучей, пирамидальная сортировка
- * Видео с визуализацией алгоритма https://www.youtube.com/watch?v=DU1uG5310x0
  */
 
 public class HeapSort {
